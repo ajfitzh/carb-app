@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# CARB App, now renamed to "Let's Taco Bout It!"
+-Image carousel with pre-loaded restaurants, you can create a user, log in, and swipe right or left on the restaurants you like or don't like. Your partner can make an account and see what you have matched with them on! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in progress: Chat Functionality, better User Auth and Matching
 
 ## Available Scripts
 
